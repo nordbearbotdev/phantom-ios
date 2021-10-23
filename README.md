@@ -51,4 +51,8 @@ If you build the Phantom Work target, credentials from the Phantom Work subscrip
 * PhantomWork builds and tests the enterprise version of our app.
 
 
+# Building
+
+To get started you need a [Mac](https://www.apple.com/mac/), [Xcode](https://developer.apple.com/xcode/) (12.2) and a (free) [Apple Developer Account](https://developer.apple.com/programs/).
+
 
