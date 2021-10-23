@@ -55,4 +55,6 @@ If you build the Phantom Work target, credentials from the Phantom Work subscrip
 
 To get started you need a [Mac](https://www.apple.com/mac/), [Xcode](https://developer.apple.com/xcode/) (12.2) and a (free) [Apple Developer Account](https://developer.apple.com/programs/).
 
+# 1. Install Dependencies
 
+1. Install 
