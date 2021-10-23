@@ -34,6 +34,15 @@ While the source code for Phantom for iOS is published under an open source lice
 
 The app uses two different license check types, depending on the target app:
 
+### App Store Licensing
+When creating a new Phantom ID using the Phantom app bought on the App Store, the app sends the digitally signed App Store receipt to the directory server. This allows the server to verify that you have indeed bought the app, without being able to identify you.
+
+This means that a self-compiled app using the Phantom scheme cannot be used to create a new Phantom ID. You can, however, use an app that was purchased in the App Store to create an ID and then export a backup. This backup can then be imported into the self-compiled app.
+
+Note that the ID creation endpoint is monitored for abuse.
+
+# Phantom Work
+If you build the Phantom Work target, credentials from the Phantom Work subscription must be provided in order to use the app.
 
 
 
