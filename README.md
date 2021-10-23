@@ -47,8 +47,8 @@ If you build the Phantom Work target, credentials from the Phantom Work subscrip
 
 # Schemes
 
-* Threema builds and tests the consumer app. (recommended for local testing)
-* ThreemaWork builds and tests the enterprise version of our app.
+* Phantom builds and tests the consumer app. (recommended for local testing)
+* PhantomWork builds and tests the enterprise version of our app.
 
 
 
