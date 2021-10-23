@@ -1,7 +1,5 @@
 # 👻 Phantom for iOS
 
-[Phantom Logo](https://yt3.ggpht.com/a/AGF-l78YxbbrIg8639Hf4YZwjB2FiiRH3p-aIZS3fQ=s900-c-k-c0xffffffff-no-rj-mo)
-
 [This repository](https://github.com/nordbearbotdev/phantom-dev) contains the complete source code of [Phantom](https://phantom.org) for iOS.
 
 # Table of Contens
