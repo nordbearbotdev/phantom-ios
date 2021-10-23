@@ -45,4 +45,10 @@ Note that the ID creation endpoint is monitored for abuse.
 If you build the Phantom Work target, credentials from the Phantom Work subscription must be provided in order to use the app.
 
 
+# Schemes
+
+* Threema builds and tests the consumer app. (recommended for local testing)
+* ThreemaWork builds and tests the enterprise version of our app.
+
+
 
