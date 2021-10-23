@@ -26,7 +26,7 @@ If you find a security issue in Phantom, please follow responsible disclosure an
 
 This source code repository will be updated for every public non-beta release. There will be one commit per released version.
 
-Commits are signed using PGP. See [SECURITY.md]() for more information.
+Commits are signed using PGP. See [SECURITY.md](https://github.com/nordbearbotdev/phantom-ios/blob/main/SECURITY.md) for more information.
 
 # 📖 License Checks
 
