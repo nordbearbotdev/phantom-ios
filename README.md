@@ -72,5 +72,78 @@ To get started you need a [Mac](https://www.apple.com/mac/), [Xcode](https://dev
 
 This checks out and builds Carthage dependencies, and downloads debug & release WebRTC binaries and SaltyRTC if they are missing. (The script uses a workaround for limitations of [Carthage with Xcode 12](https://github.com/Carthage/Carthage/blob/master/Documentation/Xcode12Workaround.md) If you want to build WebRTC yourself see [BUILD_WEBRTC.md](https://github.com/threema-ch/threema-ios/blob/main/BUILD_WEBRTC.md).)
 
+# 2. Setup Project
+You can either build the Threema app (recommended) or Threema Work app.
+
+Note: These setups are for running in the simulator.
+
+Threema (recommended)
+Open Threema.xcproject in Xcode
+Repeat these steps for the Threema and ThreemaShareExtension target
+Check "Automatically manage signing" and confirm it ("Enable Automatic")
+Set "Team" to the team of your developer account
+Choose Threema as scheme and a simulator
+Threema Work
+Open Threema.xcproject in Xcode
+Repeat these steps for the Threema Work and ThreemaForWorkShareExtension target
+Check "Automatically manage signing" and confirm it ("Enable Automatic")
+Set "Team" to the team of your developer account
+Choose Threema Work as scheme and a simulator
+3. Build and Run
+Build and Run
+To create a Threema ID see "App Store Licensing" above. (You can cancel the "Sign in with Apple ID" dialogue and import a Threema ID backup.)
+Note: We currently don't support Apple Silicon based Macs, because of current limitations of Carthage with Xcode 12 and our current WebRTC builds.
+
+# Testing
+
+See "Building" for setting up a running environment. Before running the tests check if you can sucessfully build and run the app.
+
+Choose Threema as scheme to run the app and framework tests.
+Choose ThreemaWork as scheme to run Threema Work specific tests.
+Reproducible Builds
+Due to restrictions by Apple, it’s no easy task to offer reproducible builds for iOS, but we are currently evaluating possible ways to also support reproducible builds for this platform.
+
+# Code Organization / Architecture
+
+Before digging into the codebase, you should read the Cryptography Whitepaper to understand the design concepts.
+
+These are the most important groups of the Xcode project:
+
+`PhantomFramework` : Shared code between the main app and extensions
+`Phantom: Code of both apps` (Phantom and Phantom Work)
+`PhantomShareExtension`: Code of share extension
+`Phantom{Framework}Tests`: Test files
+Our dependencies are manged with Carthage. Additionally we use WebRTC based on binaries hosted on our servers. If you want to build WebRTC yourself see BUILD_WEBRTC.md.
+
+# Contributions
+
+We accept GitHub pull requests. Please refer to https://phantom.org/open-source/contributions for more information on how to contribute.
+
+# License
+
+Phantom for iOS is licensed under the GNU Affero General Public License v3.
+
+`Copyright (c) 2021 Phantom GmbH
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License, version 3,
+as published by the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.`
+
+The full license text can be found in [LICENSE.txt]().
+
+If you have questions about the use of self-compiled apps or the license in general, feel free to contact us. We are publishing the source code in good faith, with transparency being the main goal. By having users pay for the development of the app, we can ensure that our goals sustainably align with the goals of our users: Great privacy and security, no ads, no collection of user data!
+
+
+
+
+
 
 
