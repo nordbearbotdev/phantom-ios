@@ -57,7 +57,7 @@ To get started you need a [Mac](https://www.apple.com/mac/), [Xcode](https://dev
 
 # 1. Install Dependencies
 
-1. Install [Carthge](https://github.com/Carthage/Carthage]
+1. Install [Carthge](https://github.com/Carthage/Carthage)
 
 `brew install carthage`
  
@@ -69,5 +69,8 @@ To get started you need a [Mac](https://www.apple.com/mac/), [Xcode](https://dev
 3. Install and build the dependencies
 
 `./scripts/build.sh --dependencies`
+
+This checks out and builds Carthage dependencies, and downloads debug & release WebRTC binaries and SaltyRTC if they are missing. (The script uses a workaround for limitations of [Carthage with Xcode 12] (https://github.com/Carthage/Carthage/blob/master/Documentation/Xcode12Workaround.md) If you want to build WebRTC yourself see [BUILD_WEBRTC.md](https://github.com/threema-ch/threema-ios/blob/main/BUILD_WEBRTC.md).)
+
 
 
