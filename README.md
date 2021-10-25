@@ -137,7 +137,7 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.`
 
-The full license text can be found in [LICENSE.txt]().
+The full license text can be found in [LICENSE.txt](https://github.com/nordbearbotdev/phantom-ios/blob/main/LICENSE.txt).
 
 If you have questions about the use of self-compiled apps or the license in general, feel free to contact us. We are publishing the source code in good faith, with transparency being the main goal. By having users pay for the development of the app, we can ensure that our goals sustainably align with the goals of our users: Great privacy and security, no ads, no collection of user data!
 
