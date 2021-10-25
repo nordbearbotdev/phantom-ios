@@ -65,3 +65,9 @@ To get started you need a [Mac](https://www.apple.com/mac/), [Xcode](https://dev
 2. If your Xcode installation is fresh make sure that command line tools are selected
 
 `sudo xcode-select --switch /Applications/Xcode.app`
+
+3. Install and build the dependencies
+
+`./scripts/build.sh --dependencies`
+
+
