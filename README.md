@@ -59,9 +59,9 @@ To get started you need a [Mac](https://www.apple.com/mac/), [Xcode](https://dev
 
 1. Install [Carthge](https://github.com/Carthage/Carthage]
 
- `brew install carthage`
+`brew install carthage`
  
  
 2. If your Xcode installation is fresh make sure that command line tools are selected
 
- `sudo xcode-select --switch /Applications/Xcode.app`
+`sudo xcode-select --switch /Applications/Xcode.app`
