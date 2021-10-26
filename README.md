@@ -123,7 +123,7 @@ We accept GitHub pull requests. Please refer to https://phantom.org/open-source/
 
 Phantom for iOS is licensed under the GNU Affero General Public License v3.
 
-`Copyright (c) 2021 Phantom GmbH
+` Copyright (c) 2021 Phantom GmbH
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License, version 3,
@@ -135,7 +135,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.`
+along with this program. If not, see <https://www.gnu.org/licenses/>. `
 
 The full license text can be found in [LICENSE.txt](https://github.com/nordbearbotdev/phantom-ios/blob/main/LICENSE.txt).
 
