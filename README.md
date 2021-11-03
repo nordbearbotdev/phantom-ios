@@ -4,8 +4,7 @@
 
 # Table of Contens
 
-*
-*
+* [🛠 Report Bugs/Feature Requests/Security Issues]()
 *
 *
 *
