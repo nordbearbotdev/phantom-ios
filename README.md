@@ -110,9 +110,13 @@ Before digging into the codebase, you should read the Cryptography Whitepaper to
 These are the most important groups of the Xcode project:
 
 `PhantomFramework` : Shared code between the main app and extensions
+
 `Phantom: Code of both apps` (Phantom and Phantom Work)
+
 `PhantomShareExtension`: Code of share extension
+
 `Phantom{Framework}Tests`: Test files
+
 Our dependencies are manged with Carthage. Additionally we use WebRTC based on binaries hosted on our servers. If you want to build WebRTC yourself see BUILD_WEBRTC.md.
 
 # Contributions
