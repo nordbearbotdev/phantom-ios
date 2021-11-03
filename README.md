@@ -6,12 +6,10 @@
 
 * [🛠 Report Bugs/Feature Requests/Security Issues](https://github.com/nordbearbotdev/phantom-ios/blob/main/README.md#-report-bugsfeature-requestssecurity-issues)
 * [⚙ Source Code Release Policy](https://github.com/nordbearbotdev/phantom-ios/blob/main/README.md#-source-code-release-policy)
-* 
-*
-*
-*
-*
-*
+* [📖 License Checks](https://github.com/nordbearbotdev/phantom-ios#-license-checks)
+* [📻 App Store Licensing]()
+* [🔧 Phantom Work]()
+* [Schemes]()
 *
 *
 
