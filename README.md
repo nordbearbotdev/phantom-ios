@@ -15,8 +15,8 @@
 * [🖥 Setup Project](https://github.com/nordbearbotdev/phantom-ios#2-setup-project)
 * [🧤 Testing](https://github.com/nordbearbotdev/phantom-ios/blob/main/README.md#testing)
 * [💾 Code Organization/Architecture](https://github.com/nordbearbotdev/phantom-ios/blob/main/README.md#code-organization--architecture)
-*  [👤 Contributing]()
-* [📄 License]()
+* [👤 Contributing](https://github.com/nordbearbotdev/phantom-ios/blob/main/README.md#contributions)
+* [📄 License](https://github.com/nordbearbotdev/phantom-ios/blob/README.md#license)
 
 # 🛠 Report Bugs/Feature Requests/Security Issues
 
