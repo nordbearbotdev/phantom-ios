@@ -10,7 +10,8 @@
 * [📻 App Store Licensing](https://github.com/nordbearbotdev/phantom-ios#-app-store-licensing)
 * [🔧 Phantom Work]()
 * [Schemes]()
-* 
+* [Building]()
+* [
 *
 
 # 🛠 Report Bugs/Feature Requests/Security Issues
