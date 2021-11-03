@@ -13,8 +13,8 @@
 * [🏗 Building](https://github.com/nordbearbotdev/phantom-ios/blob/main/README.md#building)
 * [📥 Install Dependencies](https://github.com/nordbearbotdev/phantom-ios#1-install-dependencies)
 * [🖥 Setup Project](https://github.com/nordbearbotdev/phantom-ios#2-setup-project)
-* [🧤 Testing]()
-* [💾 Code Organization/Architecture]()
+* [🧤 Testing](https://github.com/nordbearbotdev/phantom-ios/blob/main/README.md#testing)
+* [💾 Code Organization/Architecture](
 * [👤 Contributing]()
 * [📄 License]()
 
