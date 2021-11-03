@@ -9,7 +9,7 @@
 * [📖 License Checks](https://github.com/nordbearbotdev/phantom-ios#-license-checks)
 * [📻 App Store Licensing](https://github.com/nordbearbotdev/phantom-ios#-app-store-licensing)
 * [🔧 Phantom Work]()
-* [Schemes]()
+* [Schemes](https://github.com/nordbearbotdev/phantom-ios#schemes)
 * [Building]()
 * [
 *
