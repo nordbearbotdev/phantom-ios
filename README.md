@@ -9,14 +9,14 @@
 * [📖 License Checks](https://github.com/nordbearbotdev/phantom-ios#-license-checks)
 * [📻 App Store Licensing](https://github.com/nordbearbotdev/phantom-ios#-app-store-licensing)
 * [🔧 Phantom Work]()
-* [Schemes](https://github.com/nordbearbotdev/phantom-ios#schemes)
-* [Building](https://github.com/nordbearbotdev/phantom-ios/blob/main/README.md#building)
-* [Install Dependencies]()
-* [Setup Project]()
-* [Testing]()
-* [Code Organization/Architecture]()
-* [Contributing]()
-* [License]()
+* [⌨ Schemes](https://github.com/nordbearbotdev/phantom-ios#schemes)
+* [🏗 Building](https://github.com/nordbearbotdev/phantom-ios/blob/main/README.md#building)
+* [📥 Install Dependencies]()
+* [🖥 Setup Project]()
+* [🧤 Testing]()
+* [💾 Code Organization/Architecture]()
+* [👤 Contributing]()
+* [📄 License]()
 
 # 🛠 Report Bugs/Feature Requests/Security Issues
 
