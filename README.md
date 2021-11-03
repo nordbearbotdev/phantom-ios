@@ -5,7 +5,7 @@
 # Table of Contens
 
 * [🛠 Report Bugs/Feature Requests/Security Issues](https://github.com/nordbearbotdev/phantom-ios/blob/main/README.md#-report-bugsfeature-requestssecurity-issues)
-*
+* [⚙ Source Code Release Policy](
 *
 *
 *
